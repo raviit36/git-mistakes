@@ -3,3 +3,8 @@
 function helloWorld(){
     alert("Hi!!")
 }
+
+function secondFunction(){
+    alert("Hi!!")
+}
+
